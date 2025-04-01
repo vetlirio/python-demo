@@ -11,3 +11,4 @@ def seconds_counter():
         seconds_passed += 3
 
 seconds_counter()
+
